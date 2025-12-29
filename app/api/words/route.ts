@@ -1,4 +1,6 @@
-import { Words } from '../../data/words';
+// import { Words } from '../../data/words';
+
+import { Words } from "@/app/data/words";
 import { NextResponse } from "next/server";
 
 
